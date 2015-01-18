@@ -1,2 +1,2 @@
 # pychat
-Chat application in python
+Group chat application in python
